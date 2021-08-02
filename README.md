@@ -1,2 +1,2 @@
 # rebecca-site
-freelance web dev
+previous freelance web dev
